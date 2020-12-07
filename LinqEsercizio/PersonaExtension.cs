@@ -24,7 +24,7 @@ namespace LinqEsercizio
         }
     }
 }
-namespace LinqEsercizio { 
+
 
 
     public class VeicoliPosseduti
@@ -33,5 +33,5 @@ namespace LinqEsercizio {
         public string Targa { get; set; }
         public decimal Prezzo { get; set; }
     }
-}
+
 
